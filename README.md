@@ -16,3 +16,21 @@ With the vast variety of laptops available in the market, it can be difficult to
 * **Machine Learning:** Scikit-Learn (Regression Models)
 * **Data Visualization:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / Python Scripts
+  
+📊 Dataset Information
+The dataset includes various features such as:
+Company/Brand (Apple, Dell, HP, Lenovo, etc.)
+TypeName (Ultrabook, Notebook, Gaming, etc.)
+Inches (Screen Size)
+ScreenResolution
+CPU & GPU specifications
+RAM & Memory/Storage
+Operating System
+Weight
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+👨‍💻 Author
+Rudresh Singhal
+GitHub: @rudreshsinghal
