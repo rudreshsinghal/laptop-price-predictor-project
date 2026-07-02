@@ -5,6 +5,10 @@ A machine learning regression project that predicts the price of a laptop based 
 ## 📝 Project Overview
 With the vast variety of laptops available in the market, it can be difficult to determine a fair price. This project utilizes machine learning regression techniques to estimate the price of a laptop given its configuration, such as the brand, processor, RAM, storage, and display features.
 
+## Screenshot
+<img width="1336" height="541" alt="Screenshot_laptop_price" src="https://github.com/user-attachments/assets/d985018f-f32b-4eda-9a62-58505a39af3a" />
+
+
 ## ✨ Key Features
 * **Predictive Modeling:** Uses advanced regression algorithms to provide accurate price estimates.
 * **Data Preprocessing:** Handles missing values, encodes categorical variables (like Brand and OS), and scales numerical data.
